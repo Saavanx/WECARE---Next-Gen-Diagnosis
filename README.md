@@ -144,10 +144,7 @@ G.L. Bajaj Institute of Technology & Management, Greater Noida
 ## Business Model 💰
 WeCare would be available both as a product and service for the customers. The customer will subscribe to our services. We would market our system to the general public and aware the doctors and medical fraternity of the benefits of our product. Our product is helpful for all kinds of patients who aren't comfortable/able to visit the doctors/physicians physically. It is equally beneficial and convenient for the doctors as well.
 
-### ScreenShots of WeCare
-<pre>
-<img src="./images/1.jpg" alt="1" width="300" height="600" /> <img src="./images/2.jpg" alt="1" width="300" height="600" /> <img src="./images/3.jpg" alt="1" width="300" height="600" /> <img src="./images/4.jpg" alt="1" width="300" height="600" /> <img src="./images/5.jpg" alt="1" width="300" height="600" /> <img src="./images/7.jpg" alt="1" width="300" height="600" />
-</pre>
+
 
 Built with ❤️ by Team WECARE
 
