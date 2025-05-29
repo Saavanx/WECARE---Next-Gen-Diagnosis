@@ -146,7 +146,7 @@ WeCare would be available both as a product and service for the customers. The c
 
 ### ScreenShots of WeCare
 <pre>
-<img src="./images/1.jpg" alt="1" width="300" height="600" /> <img src="./images/2.jpg" alt="1" width="300" height="600" /> <img src="./images/3.jpg" alt="1" width="300" height="600" /> <img src="./images/4.jpg" alt="1" width="300" height="600" /> <img src="./images/5.jpg" alt="1" width="300" height="600" /> <img src="./images/7.jpg" alt="1" width="300" height="600" /> <img src="./images/8.jpg" alt="1" width="300" height="600" />
+<img src="./images/1.jpg" alt="1" width="300" height="600" /> <img src="./images/2.jpg" alt="1" width="300" height="600" /> <img src="./images/3.jpg" alt="1" width="300" height="600" /> <img src="./images/4.jpg" alt="1" width="300" height="600" /> <img src="./images/5.jpg" alt="1" width="300" height="600" /> <img src="./images/7.jpg" alt="1" width="300" height="600" />
 </pre>
 
 Built with ❤️ by Team WECARE
